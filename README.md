@@ -1,3 +1,11 @@
+# Bread
+
+A single purpose app that helps me figure out how much flour, water and salt to add when using a levain starer. :)
+
+Deployed at: [https://bread.alorg.net](https://bread.alorg.net)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
