@@ -48,6 +48,7 @@ export default function Home() {
                 value={flour}
                 onChange={ev => setFlour(Number(ev.target.value))}
               >
+                <option value="250">250g</option>
                 <option value="500">500g</option>
                 <option value="1000">1000g</option>
               </select>
